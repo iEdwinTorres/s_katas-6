@@ -19,7 +19,7 @@ npm install
 ```
 
 ## Running Tests
-The output of tests will be your hint at how close you are to completing various katas. you'll want to run the following command in a new terminal (such as the one found at the bottom of vs code):
+The output of tests will be your hint at how close you are to completing various katas. you'll want to run the following command in a new terminal:
 ```bash
 npm test
 ```
