@@ -44,24 +44,6 @@ const add = (x, y) => {
 };
 ```
 
-# Getting Updates
-You may have noticed that we asked you to fork this repository rather than
-clone it. That's so that you can save your work and push it to GitLab. That
-also, however, means that getting updated katas isn't as straight forward.
-
-You'll need to add the original KenzieAcademy/es6-katas repository as a
-remote and pull from _that_ to get updates.
-You can add a new origin as follows:
-```bash
-git remote add kenzie git@gitlab.com:kenzie-academy/se/fe/code-quality/s_katas-6.git
-```
-
-Before updating, make sure you have a clean working directory (You've
-committed first). Then pull in updates as follows:
-```bash
-git pull kenzie master
-```
-
 Once you complete this assessment add KA_Grading (GitLab member) to your repository as a `Reporter` and submit you repository URL.
 
 # FAQ
