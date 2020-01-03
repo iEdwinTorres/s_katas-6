@@ -30,7 +30,7 @@ You should then see some output like the following:
 Here, You can see that we have several test failing, as well as a hint at what we were expecting.
 
 ### Completing Katas
-Next, You should open up whichever kata you want to work on next. We suggest starting with `katas/arrow-functions.js`. In each module, You'll find functions and expressions written in es5 with comments above them explaining which es6 features we'd like you to use to convert them. For example, the first "arrow functions" kata tells you to convert the add function to an arrow function. As such, you'd convert this:
+You'll find functions and expressions written in es5 with comments above them explaining which es6 features we'd like you to use to convert them. For example, the first "arrow functions" kata tells you to convert the add function to an arrow function. As such, you'd convert this:
 ```javascript
 function add(x, y) {
     return x + y;
